@@ -1,1 +1,13 @@
+# Local configs (never commit real customer values)
+config.psd1
+*.env
+*.secret.*
+
+# Logs
+*.log
+
+# OS / editor noise
+Thumbs.db
+Desktop.ini
+.vscode/
 
